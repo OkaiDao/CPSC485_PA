@@ -10,7 +10,8 @@
 
 #Made in visual studios 2019
 #Compiling Instructions
-#
+#Run Bio_Informatics.py from project folder
+#Link to github: https://github.com/OkaiDao/CPSC485_PA/tree/main/Bio_Informatics
 
 
 #No pass by reference for string so print reverse
